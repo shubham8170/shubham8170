@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shubham biswas
 - 👀 I’m interested in .web development 
-- 🌱 I’m currently learning reactjs
+- 🌱 reactjs developer
 - 💞️ I’m looking for sde role
 - 📫 my contact information
 mail - shubhambiswas024@gmail.com  
