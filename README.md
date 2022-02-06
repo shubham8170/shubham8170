@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shubham biswas
 - 👀 I’m interested in .web development 
-- 🌱 reactjs developer
+- 🌱 MEAN Stack developer
 - 💞️ I’m looking for sde role
 - 📫 my contact information
 mail - shubhambiswas024@gmail.com  
